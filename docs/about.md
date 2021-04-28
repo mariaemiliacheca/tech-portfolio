@@ -9,7 +9,7 @@ include a little bit about yourself. Some things you
 might include:
 
 1. Your current position
-1. Organizations you're involved with
+1. President & Co-Founder Dalhousie Latinos and Hispanics in STEM 
 1. Your personal and professional values
 1. Hobbies or fun facts
 
@@ -19,7 +19,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+AI4GoodLab Montreal Cohort 2021
 
 ## Recognition
 
