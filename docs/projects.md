@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+# Dalhousie Latinos and Hispanics in STEM Society - CoFounder & President
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+I have made it my goal to 
+ 
+[LinkedIn](https://www.linkedin.com/company/69996935/admin/)
+[Instagram](https://www.instagram.com/dal_lahis/)
+[Facebook](https://www.facebook.com/dalhousie.lahis)
