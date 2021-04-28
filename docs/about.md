@@ -12,4 +12,4 @@ AI4GoodLab Montreal Cohort Participant 2021
 
 ## Involvement
 
-1. President & Co-Founder Dalhousie Latinos and Hispanics in STEM 
+- President & Co-Founder Dalhousie Latinos and Hispanics in STEM 
