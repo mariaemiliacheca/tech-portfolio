@@ -3,24 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am a Computer Science student with a passion for technology and problem-solving. I am eager to learn and curious about how computer science can impact different parts of our lives. More specifically, I am interested in Mobile & App Development, User Experience, and Web Design. I aspire to impulse the involvement of Latinos and Hispanics in STEM, by providing a supportive community with a focus on professional and personal development.
 
-1. Your current position
-1. President & Co-Founder Dalhousie Latinos and Hispanics in STEM 
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-AI4GoodLab Montreal Cohort 2021
+AI4GoodLab Montreal Cohort Participant 2021
 
-## Recognition
+## Involvement
 
-- 2020 Awesome Woman in Technology Award
+1. President & Co-Founder Dalhousie Latinos and Hispanics in STEM 
